@@ -85,7 +85,6 @@ async def _call(ctx=SlashContext, cell_phone=str, otp_digits=str, client_name=st
     a = 0
     b = 0
     c = 0
-    d = 0
     while True:
         if client.calls(sid).fetch().status == 'queued':
             if not a >= 1:
