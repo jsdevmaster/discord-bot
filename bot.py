@@ -2,11 +2,10 @@
 import time
 import os
 import discord_slash.utils.manage_commands
-import requests
 import discord
 import os
 from discord_slash import SlashCommand
-from flask import Flask, request
+from flask import Flask
 from twilio.rest import Client
 import json
 from discord.ext import commands
