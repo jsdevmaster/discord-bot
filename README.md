@@ -28,15 +28,6 @@ Telegram Channel https://t.me/+fzkvq8FdnQY2ZmNh
     (Old Channels are Banned)
     https://discord.gg/ghHtyDevI
     https://t.me/+uftsns3gsKhdLfc1tUy
-
-
-# Buy me coffee: 
-
-    Ethereum: 0x06F0ff15A132410389C41fd4B52c9E458666F579
-    Bitcoin: bc1qw9rzd4ze0c43fklj2hnlzrtw3ps7mx7w5pl7mk
-    BNB: bnb19l2tz4y5jlwdtrk0v9jkenhmv05kuy2y327mv9
-    LTC: ltc1qs89vzwyete5jnn5mcpqp2zvrlzv8gdwq0a4tt6
-  
   
   # SETUP
     
