@@ -1,0 +1,1 @@
+{"account_sid":"AC19a0e55aae6c3c1e1fe9d5fcf76cf728", "auth_token":"e98fd3a69aeb3a007cc946fba0bbedb6", "Twilio Phone Number":"+18777396077", "ngrok_url":"https://e599-2600-6c58-597f-f41a-a436-316d-6ac5-2b6b.ngrok-free.app/", "server_id":"1103693703958253569", "bot_token":"MTEyNjIxMzA3MDQyMzg1MTEyMQ.GoKK8G.VmkseUJPWAlCkLyIjcqWIdFFh1JdZpKFvhGGZM"}
